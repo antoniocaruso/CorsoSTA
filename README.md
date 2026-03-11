@@ -18,3 +18,4 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
 - https://www.youtube.com/watch?v=7J7X7aZvMXQ (DRAM)
 - https://www.youtube.com/watch?v=dX9CGRZwD-w (Chip) 3
 - I video di Branch Education sono molto dettagliati (più di quello richiesto per il corso) ma bellissimi.
+* Lezione 4 (13/03): Architettura dell'Elaboratore - Sistemi Operativi
