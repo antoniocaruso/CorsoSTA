@@ -10,7 +10,7 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
 * Lezione 3 (11/03): Architettura dell'Elaboratore
 * Vedere i video:
 
-- ** Da vedere: https://www.youtube.com/watch?v=16zrEPOsIcI&t=741s **
+- **Da vedere: [How CPU Works](https://www.youtube.com/watch?v=16zrEPOsIcI&t=741s)**
 - https://www.youtube.com/watch?v=H4G4WLssTWg&t=28s
 - https://www.youtube.com/watch?v=vgPFzblBh7w (Intel lez.1)!
 - https://www.youtube.com/watch?v=o_WXTRS2qTY (Intel lez.2)
