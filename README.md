@@ -26,3 +26,11 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
   - Http: https://it.wikipedia.org/wiki/Hypertext_Transfer_Protocol
   - World-Wide-Web: https://it.wikipedia.org/wiki/World_Wide_Web
   - **Tutorial Js [https://javascript.info/hello-world]**
+  - -> Chiedere a ChatGPT o altra IA ->
+      "vorrei installare un editor di testi su questo computer, cosa suggerisci?"
+      "spiegami la differenza tra HTML e CSS"
+      allegate un vostro curriculum in word (se non lo avete, createlo), dentro un IA, e chiedete:
+      "realizza una pagina web con i contenuti di questo curriculum, utilizza un bel template bootstrap
+       css per lo schema della pagina"
+      giocate con i prompt per verificare il risultato.
+    
