@@ -24,6 +24,7 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
   - InterNet: https://it.wikipedia.org/wiki/Internet
   - Protocolli: https://it.wikipedia.org/wiki/Suite_di_protocolli_Internet
   - Http: https://it.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+  - https://web.dev/learn/html/overview?continue=https%3A%2F%2Fweb.dev%2Flearn%2Fhtml&hl=it#article-https://web.dev/learn/html/overview&hl=it
   - World-Wide-Web: https://it.wikipedia.org/wiki/World_Wide_Web
   - **Tutorial Js [https://javascript.info/hello-world](https://it.javascript.info/)**
   - -> Chiedere a ChatGPT o altra IA ->
@@ -33,4 +34,4 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
       "realizza una pagina web con i contenuti di questo curriculum, utilizza un bel template bootstrap
        css per lo schema della pagina"
       giocate con i prompt per verificare il risultato.
-    
+  
