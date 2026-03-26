@@ -25,7 +25,7 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
   - Protocolli: https://it.wikipedia.org/wiki/Suite_di_protocolli_Internet
   - Http: https://it.wikipedia.org/wiki/Hypertext_Transfer_Protocol
   - World-Wide-Web: https://it.wikipedia.org/wiki/World_Wide_Web
-  - **Tutorial Js [https://javascript.info/hello-world]**
+  - **Tutorial Js [https://javascript.info/hello-world](https://it.javascript.info/)**
   - -> Chiedere a ChatGPT o altra IA ->
       "vorrei installare un editor di testi su questo computer, cosa suggerisci?"
       "spiegami la differenza tra HTML e CSS"
