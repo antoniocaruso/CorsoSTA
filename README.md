@@ -18,3 +18,11 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
   - https://www.youtube.com/watch?v=dX9CGRZwD-w (Chip) 3
   - I video di Branch Education sono molto dettagliati (più di quello richiesto per il corso) ma bellissimi.
 * Lezione 4 (13/03): Architettura dell'Elaboratore - Sistemi Operativi
+* Lezione 5 (17/03): Sistemi Operativi II, multitasking, shell, gui, evoluzione 
+* Lezione 6 (20/03): Reti - Tecnologie - Livelli ISO/OSI - Nomenclatura (MAN, WAN), TCP/IP
+* Lezione 7 (25/03): Reti - Livelli Applicativi, HTTP, HTTPS, DNS, IMAP, -> HTML, CSS, cenni di Javascript
+  - InterNet: https://it.wikipedia.org/wiki/Internet
+  - Protocolli: https://it.wikipedia.org/wiki/Suite_di_protocolli_Internet
+  - Http: https://it.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+  - World-Wide-Web: https://it.wikipedia.org/wiki/World_Wide_Web
+  - **Tutorial Js [https://javascript.info/hello-world]**
