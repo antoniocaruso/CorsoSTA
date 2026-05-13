@@ -18,7 +18,7 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
   - https://www.youtube.com/watch?v=dX9CGRZwD-w (Chip) 3
   - I video di Branch Education sono molto dettagliati (più di quello richiesto per il corso) ma bellissimi.
 * Lezione 4 (13/03): Architettura dell'Elaboratore - Sistemi Operativi
-* Lezione 5 (17/03): Sistemi Operativi II, multitasking, shell, gui, evoluzione 
+* Lezione 5 (18/03): Sistemi Operativi II, multitasking, shell, gui, evoluzione 
 * Lezione 6 (20/03): Reti - Tecnologie - Livelli ISO/OSI - Nomenclatura (MAN, WAN), TCP/IP
 * Lezione 7 (25/03): Reti - Livelli Applicativi, HTTP, HTTPS, DNS, IMAP, -> HTML, CSS, cenni di Javascript
   - InterNet: https://it.wikipedia.org/wiki/Internet
@@ -34,4 +34,25 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
       "realizza una pagina web con i contenuti di questo curriculum, utilizza un bel template bootstrap
        css per lo schema della pagina"
       giocate con i prompt per verificare il risultato.
+* Lezione 8 (27/03):
+  -> Excel. funzioni: Celle, Fogli, Riferimenti Celle, Rifermenti Assoluti, e Riferimenti Relativi, effetto dello
+  spostamento o copia di riferimenti relativi in altre celle. Blocco dei riferimenti per colonna o righa. 
+* Lezione 9 (15/04)
+  Excel: Funzioni: SOMMA, MAX, MIN, MEDIA, SE, CONTA.SE, SOMMA.SE, CONTA.VALORI, CONTA.NUMERI, Tabelle, 
+  Filtri nelle Tabelle. Ordinamento Colonne. Formato CSV.
+* Lezione 10 (17/04)
+  Excel: Esercitazione
+* Lezione 11 (29/04)
+  Linguaggi di Programmazione, interpretazione vs compilazione. Presentazione di Python, uso dell'ambiente Google Colab.
+* Lezione 12 (6/05)
+  Python, input/output (funzioni print, e input), assegnamento variabili, espressioni semplici con operatori aritmentici.
+  Concetto di tipo. Esempi, conversione dell'input da str a int o double.
+* Lezione 13 (8/5)
+  Python, istruzione if, semplici esercizi: lettura da input di tre coefficienti di un equazioni di secondo grado, e calcolo e stampa degli zeri. Massimo tra due valori (con if). Tipi booleani, operazioni tra espressione booleane ( or, and, not ), espressioni di confronto (> >= < <= != == ). Differenza tra uguaglianza come operatore booleano ==, e assegnamento =.
+* Lezione 14 (15/05)
+  Python, cicli while, iterazione, esempio: stampa dei numeri da 1 a 10. semantica del while, variabili di iterazione e possibilità di avere iterazioni infinite. Ciclo for e iterazioni definite su sequenze e insiemi finiti, tipo lista. Semplici iterazioni su liste con la funzione range().
+  
+  
+
+  
   
