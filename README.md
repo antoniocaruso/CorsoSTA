@@ -51,6 +51,14 @@ l'uso di sistemi di intelligenza artificiale: Mistral AI, Claude AI, ChatGpt, Go
   Python, istruzione if, semplici esercizi: lettura da input di tre coefficienti di un equazioni di secondo grado, e calcolo e stampa degli zeri. Massimo tra due valori (con if). Tipi booleani, operazioni tra espressione booleane ( or, and, not ), espressioni di confronto (> >= < <= != == ). Differenza tra uguaglianza come operatore booleano ==, e assegnamento =.
 * Lezione 14 (15/05)
   Python, cicli while, iterazione, esempio: stampa dei numeri da 1 a 10. semantica del while, variabili di iterazione e possibilità di avere iterazioni infinite. Ciclo for e iterazioni definite su sequenze e insiemi finiti, tipo lista. Semplici iterazioni su liste con la funzione range().
+* Lezione 15 (15/05)
+* Lezione 16 (18/05 3 ore)
+* Lezione 17 (20/05 2+2 ore)
+* Lezione 18 (22/05 2 ore)
+* Lezione 19 (25/05 3 ore)
+* Lezione 20 (26/05 3 ore)
+* Lezione 21 (27/05 2 + 2)
+* Lezione 22 (3/06  3 ore)
   
   
 
